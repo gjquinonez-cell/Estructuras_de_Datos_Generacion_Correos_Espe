@@ -1,0 +1,3 @@
+"0503082596" "Gandhi" "Josue" "Quinonez" "Corrales" "gjquinonez@espe.edu.ec"
+"1718169285" "Anabel" "" "Davila" "Molina" "a_davila@espe.edu.ec"
+"0402859868" "Gandhi" "Josue" "Quinonez" "Corrales" "gjquinonez1@espe.edu.ec"
