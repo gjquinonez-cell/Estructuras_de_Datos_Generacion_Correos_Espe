@@ -1,5 +1,10 @@
 # Estructuras_de_Datos_Generacion_Correos_Espe
 En este repositorio se encontraran los archivos necesarios para la generacion de correos electronicos con dominio "@espe.edu.ec" usando listas dobles
+
+AUTORES
+PAULO RAMOS
+SUBT. QUINONEZ GANDHI
+
 # Generación de correos ESPE
 
 Programa en C++ que registra personas en una lista doblemente enlazada y genera correos con el dominio `@espe.edu.ec`.
